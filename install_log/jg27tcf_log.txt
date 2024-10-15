@@ -1,0 +1,36 @@
+start installing neuron
+[+] /usr (external gettext-0.19.8.1-6jl23wn6jpwquhvqibpwhvia7vxsgrq3)
+[+] /usr (external m4-1.4.18-craoyd3hmfdcanz7zxglna5yxcvdtoem)
+[+] /usr (external curl-7.61.1-qsvgylcys5hkzdnl2pdh4blrprxlsp5m)
+[+] /usr (external ncurses-6.1-a6lc7oq2dlgphtibbpp6x72mqgmscros)
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/zlib-ng-2.1.4-m4nsqgrityww4eqljits3svzi4wynus3
+[+] /opt/FJSVxtclanga/tcsds-mpi-latest (external fujitsu-mpi-head-ua6z3jwmhkv7wrwge2kvcmfpzn3xfymk)
+[+] /usr (external gmake-4.2.1-eszqmok6vi6wxcmklx6bqloeidbh25kb)
+[+] /opt/FJSVxtclanga/tcsds-ssl2-latest (external fujitsu-ssl2-head-wcd2f37tc2hvms4c737iroodht4wwclu)
+[+] /usr (external bzip2-1.0.6-r4iabrte3nd5eemcd5v5coc3kvsnoyzu)
+[+] /usr (external gdbm-1.18-rmid2enqx5rh6jr4qe5dwqvyouidp5il)
+[+] /usr (external libffi-3.1-t3pvneonzixzuuslyi77hvdmtpiwcmnn)
+[+] /usr (external readline-7.0-e42rjj4i2akf22cltht7kf2fuxvhok62)
+[+] /usr (external sqlite-3.26.0-mk7hngumxevy3u6wqoaco5sgzevallwn)
+[+] /usr (external xz-5.2.4-l5cq5xund4a2b3ikazvehpmbiao6srbv)
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/cmake-3.27.7-ussgjuqkqbxi5dcv7kbp6bugdcjc5ph6
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/libmd-1.0.4-c6kxvz3uxe2gfan53cddxzubiobsk6j7
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/flex-2.6.3-udlfzibabfli2hc4lyhfxk7p5xd3pv4f
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/util-linux-uuid-2.38.1-ntavqwk5vtgxjkupp5lcart6ah2uuwi5
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/bison-3.8.2-kviw7pt3aorzqonkoy2vxqd5nzod5xdv
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/libxcrypt-4.4.35-65qqdcyvorz4uxet3cq2e4zxyakt757n
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/libbsd-0.11.7-ovlcn2spf2nziz5itskfcmtdbqscyqii
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/expat-2.5.0-wuv6zzro2s4luf6r3x6zecsjv5ew2xnh
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/py-setuptools-59.4.0-nrhqqptspkdg6vuwaiwh4vx2mpchnyr7
+[+] /vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/py-numpy-1.24.3-epfr6vwqv25dp3g76yoyd25tjs2upgpp
+==> Installing neuron-8.0.0-jg27tcfmvti4beyfmh4sttgca53ctlej [26/26]
+==> No binary for neuron-8.0.0-jg27tcfmvti4beyfmh4sttgca53ctlej found: installing from source
+==> Using cached archive: /vol0004/hp200139/data/u12103/spack/RIKEN-spack2/var/spack/cache/_source-cache/git//neuronsimulator/nrn/429d11ef34b1d860b3ddbfffc9f7960acb399b0c.tar.gz
+==> No patches needed for neuron
+==> neuron: Executing phase: 'cmake'
+==> neuron: Executing phase: 'build'
+==> neuron: Executing phase: 'install'
+==> neuron: Successfully installed neuron-8.0.0-jg27tcfmvti4beyfmh4sttgca53ctlej
+  Stage: 3m 47.86s.  Cmake: 4m 9.98s.  Build: 10m 42.59s.  Install: 54.79s.  Post-install: 7.16s.  Total: 19m 48.56s
+[+] /vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-jg27tcfmvti4beyfmh4sttgca53ctlej
