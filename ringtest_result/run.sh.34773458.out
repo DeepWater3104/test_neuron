@@ -1,0 +1,9 @@
+-- linux-rhel8-a64fx / fj@4.10.0 --------------------------------
+ve3bexq neuron@8.0.0~caliper~coreneuron~cross-compile~interviews~ipo~legacy-unit+mpi+python~rx3d~tests build_system=cmake build_type=Release generator=make
+/vol0004/hp200139/data/u12103/test_NEURON/ringtest/ringtest-coreneuron
+Mod files: "mod/halfgap.mod"
+
+Creating aarch64 directory for .o files.
+
+COBJS=''
+ERROR : CoreNEURON support is not enabled!

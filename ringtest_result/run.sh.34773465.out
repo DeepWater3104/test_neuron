@@ -1,0 +1,25 @@
+-- linux-rhel8-a64fx / fj@4.10.0 --------------------------------
+43rxvrt neuron@8.0.0~caliper+coreneuron~cross-compile~interviews~ipo~legacy-unit+mpi+python~rx3d~tests build_system=cmake build_type=Release generator=make
+/vol0004/hp200139/data/u12103/test_NEURON/ringtest/ringtest_coreneuron-coreneuron
+Mod files: "mod/halfgap.mod"
+
+Creating aarch64 directory for .o files.
+
+COBJS=''
+[INFO] Running: make -j4 -f /vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/share/coreneuron/nrnivmodl_core_makefile ROOT=/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum MODS_PATH=aarch64/corenrn/mod2c BUILD_TYPE=SHARED
+Default NMODL flags: 
+cvode_emit=0 cvode_not_allowed=0
+cvode_emit=0 cvode_not_allowed=0
+cvode_emit=0 cvode_not_allowed=0
+cvode_emit=0 cvode_not_allowed=0
+cvode_emit=0 cvode_not_allowed=0
+Notice: ARTIFICIAL_CELL is a synonym for POINT_PROCESS which hints that it
+only affects and is affected by discrete events. As such it is not
+located in a section and is not associated with an integrator
+cvode_emit=0 cvode_not_allowed=0
+Notice: ARTIFICIAL_CELL is a synonym for POINT_PROCESS which hints that it
+only affects and is affected by discrete events. As such it is not
+located in a section and is not associated with an integrator
+cvode_emit=0 cvode_not_allowed=0
+cvode_emit=0 cvode_not_allowed=0
+cvode_emit=0 cvode_not_allowed=0

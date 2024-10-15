@@ -1,0 +1,2493 @@
+diff: aarch64/corenrn/mod2c/_mod_func.cpp: No such file or directory
+Translating aarch64/corenrn/mod2c/expsyn.mod into aarch64/corenrn/mod2c//expsyn.cpp
+Translating aarch64/corenrn/mod2c/exp2syn.mod into aarch64/corenrn/mod2c//exp2syn.cpp
+Translating aarch64/corenrn/mod2c/halfgap.mod into aarch64/corenrn/mod2c//halfgap.cpp
+Thread Safe
+Thread Safe
+Thread Safe
+Translating aarch64/corenrn/mod2c/hh.mod into aarch64/corenrn/mod2c//hh.cpp
+Thread Safe
+Translating aarch64/corenrn/mod2c/netstim.mod into aarch64/corenrn/mod2c//netstim.cpp
+Thread Safe
+Translating aarch64/corenrn/mod2c/pattern.mod into aarch64/corenrn/mod2c//pattern.cpp
+Translating aarch64/corenrn/mod2c/passive.mod into aarch64/corenrn/mod2c//passive.cpp
+Thread Safe
+Thread Safe
+Translating aarch64/corenrn/mod2c/stim.mod into aarch64/corenrn/mod2c//stim.cpp
+Thread Safe
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+Translating aarch64/corenrn/mod2c/svclmp.mod into aarch64/corenrn/mod2c//svclmp.cpp
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+Thread Safe
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 118: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 125: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 118: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 130: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 125: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 137: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 130: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 137: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 118: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 125: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 130: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 137: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 217: warning: unrecognized #pragma
+  #pragma acc declare copyin(A0)
+          ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 219: warning: unrecognized #pragma
+  #pragma acc declare copyin(B0)
+          ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 221: warning: unrecognized #pragma
+  #pragma acc declare copyin(delta_t)
+          ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 208: warning: unrecognized #pragma
+  #pragma acc declare copyin(delta_t)
+          ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 210: warning: unrecognized #pragma
+  #pragma acc declare copyin(g0)
+          ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 236: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 259: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 274: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 295: warning: unrecognized #pragma
+  #pragma acc declare create(_slist1)
+          ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 299: warning: unrecognized #pragma
+  #pragma acc declare create(_dlist1)
+          ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 263: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 310: warning: unrecognized #pragma
+  #pragma acc declare create(_slist1)
+          ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 314: warning: unrecognized #pragma
+  #pragma acc declare create(_dlist1)
+          ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 263: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 333: warning: unrecognized #pragma
+    _PRAGMA_FOR_NETRECV_ACC_LOOP_ 
+    ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 286: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 287: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 347: warning: unrecognized #pragma
+    #pragma acc wait(stream_id)
+            ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 351: warning: unrecognized #pragma
+    _PRAGMA_FOR_NETRECV_ACC_LOOP_ 
+    ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 365: warning: unrecognized #pragma
+    #pragma acc wait(stream_id)
+            ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 276: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 329: warning: variable "stream_id" was declared but never referenced
+    int stream_id = _nt->stream_id;
+        ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 347: warning: variable "stream_id" was declared but never referenced
+    int stream_id = _nt->stream_id;
+        ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 278: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 331: warning: variable "_pnt_length" was declared but never referenced
+    int _pnt_length = _nt->n_pntproc - _nrb->_pnt_offset;
+        ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 349: warning: variable "_pnt_length" was declared but never referenced
+    int _pnt_length = _nt->n_pntproc - _nrb->_pnt_offset;
+        ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 354: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 355: warning: unrecognized #pragma
+  _PRAGMA_FOR_CUR_SYN_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 347: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 373: warning: variable "_ppvar" was set but never used
+  {  double* _p; Datum* _ppvar; ThreadDatum* _thread; double v = 0;
+                        ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 391: warning: variable "_ppvar" was set but never used
+  {  double* _p; Datum* _ppvar; ThreadDatum* _thread; double v = 0;
+                        ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 373: warning: variable "_thread" was set but never used
+  {  double* _p; Datum* _ppvar; ThreadDatum* _thread; double v = 0;
+                                             ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 391: warning: variable "_thread" was set but never used
+  {  double* _p; Datum* _ppvar; ThreadDatum* _thread; double v = 0;
+                                             ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 432: warning: variable "_p" was declared but never referenced
+   double _x; double* _p = &_x;
+                      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 373: warning: variable "v" was declared but never referenced
+  {  double* _p; Datum* _ppvar; ThreadDatum* _thread; double v = 0;
+                                                             ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 391: warning: variable "v" was declared but never referenced
+  {  double* _p; Datum* _ppvar; ThreadDatum* _thread; double v = 0;
+                                                             ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 433: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 374: warning: variable "_cntml_actual" was set but never used
+     Memb_list* _ml; int _cntml_padded, _cntml_actual; int _iml; double* _args;
+                                        ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 392: warning: variable "_cntml_actual" was set but never used
+     Memb_list* _ml; int _cntml_padded, _cntml_actual; int _iml; double* _args;
+                                        ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 434: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 408: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 435: warning: variable "_cntml_padded" was declared but never referenced
+   int _cntml_padded=1;
+       ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 427: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 408: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 436: warning: variable "_iml" was declared but never referenced
+   int _iml=0;
+       ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 435: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 436: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 427: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 466: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 467: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 425: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 456: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 427: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 458: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 496: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 497: warning: unrecognized #pragma
+  _PRAGMA_FOR_CUR_SYN_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 528: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 529: warning: unrecognized #pragma
+  _PRAGMA_FOR_CUR_SYN_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 489: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 573: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 521: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 574: warning: unrecognized #pragma
+  _PRAGMA_FOR_STATE_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 605: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 606: warning: unrecognized #pragma
+  _PRAGMA_FOR_STATE_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 564: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 596: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 566: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 603: warning: unrecognized #pragma
+   #pragma acc enter data copyin(_slist1[0:1])
+           ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 604: warning: unrecognized #pragma
+   #pragma acc enter data copyin(_dlist1[0:1])
+           ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 598: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 636: warning: unrecognized #pragma
+   #pragma acc enter data copyin(_slist1[0:2])
+           ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 637: warning: unrecognized #pragma
+   #pragma acc enter data copyin(_dlist1[0:2])
+           ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 594: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 626: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 595: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 627: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 132: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 140: warning: variable "coreneuron::_pointtype" was set but never used
+   static int _pointtype;
+              ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 198: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 255: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "";
+                     ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 257: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 258: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 259: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 260: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/halfgap.cpp", line 429: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 151: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 159: warning: variable "coreneuron::_pointtype" was set but never used
+   static int _pointtype;
+              ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 220: warning: variable "coreneuron::delta_t" was declared but never referenced
+   static double delta_t = 0.01;
+                 ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 229: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 298: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "";
+                     ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 300: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 301: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 302: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 146: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 303: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 154: warning: variable "coreneuron::_pointtype" was set but never used
+   static int _pointtype;
+              ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 318: warning: function "coreneuron::_ode_spec1" was declared but never referenced
+   static int _ode_spec1 (_threadargsproto_) {int _reset = 0; {
+              ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 207: warning: variable "coreneuron::delta_t" was declared but never referenced
+   static double delta_t = 0.01;
+                 ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 324: warning: function "coreneuron::_ode_matsol1" was declared but never referenced
+   static int _ode_matsol1 (_threadargsproto_) {
+              ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 218: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/exp2syn.cpp", line 622: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 283: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "";
+                     ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 285: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 286: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 287: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 288: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 303: warning: function "coreneuron::_ode_spec1" was declared but never referenced
+   static int _ode_spec1 (_threadargsproto_) {int _reset = 0; {
+              ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 308: warning: function "coreneuron::_ode_matsol1" was declared but never referenced
+   static int _ode_matsol1 (_threadargsproto_) {
+              ^
+
+"aarch64/corenrn/mod2c/expsyn.cpp", line 590: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 118: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 125: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 130: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 137: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 164: warning: unrecognized #pragma
+  #pragma acc declare copyin(_celsius_)
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 185: warning: unrecognized #pragma
+   #pragma acc routine seq
+           ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 191: warning: unrecognized #pragma
+   #pragma acc update device(_celsius_)
+           ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 220: warning: unrecognized #pragma
+  #pragma acc declare copyin(delta_t)
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 222: warning: unrecognized #pragma
+  #pragma acc declare copyin(h0)
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 224: warning: unrecognized #pragma
+  #pragma acc declare copyin(m0)
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 226: warning: unrecognized #pragma
+  #pragma acc declare copyin(n0)
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 294: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 330: warning: unrecognized #pragma
+  #pragma acc declare create(_slist1)
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 334: warning: unrecognized #pragma
+  #pragma acc declare create(_dlist1)
+          ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 427: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 427: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 459: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 460: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 451: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 525: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 526: warning: unrecognized #pragma
+  _PRAGMA_FOR_CUR_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 518: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 581: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 582: warning: unrecognized #pragma
+  _PRAGMA_FOR_STATE_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 574: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 615: warning: unrecognized #pragma
+   #pragma acc enter data copyin(_slist1[0:3])
+           ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 616: warning: unrecognized #pragma
+   #pragma acc enter data copyin(_dlist1[0:3])
+           ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 604: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 605: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"aarch64/corenrn/mod2c/hh.cpp", line 159: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 219: warning: variable "coreneuron::delta_t" was declared but never referenced
+   static double delta_t = 0.01;
+                 ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 234: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 263: warning: variable "coreneuron::_na_type" was set but never used
+   static int _na_type;
+              ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 264: warning: variable "coreneuron::_k_type" was set but never used
+   static int _k_type;
+              ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 423: warning: function "coreneuron::_update_ion_pointer" was declared but never referenced
+   static void _update_ion_pointer(Datum* _ppvar) {
+               ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 317: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "hh.mod   squid sodium, potassium, and leak channels";
+                     ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 319: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 320: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 321: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 322: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 338: warning: function "coreneuron::_ode_spec1" was declared but never referenced
+   static int _ode_spec1 (_threadargsproto_) {int _reset = 0; {
+              ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 346: warning: function "coreneuron::_ode_matsol1" was declared but never referenced
+   static int _ode_matsol1 (_threadargsproto_) {
+              ^
+
+"aarch64/corenrn/mod2c/hh.cpp", line 600: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 118: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 125: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 130: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 137: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 280: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 632: warning: variable "_cntml_actual" was set but never used
+     Memb_list* _ml; int _cntml_padded, _cntml_actual; int _iml; double* _args;
+                                        ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 694: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 694: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 740: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 725: warning: variable "_v" was declared but never referenced
+  double _v, v; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+         ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 725: warning: variable "_ni" was set but never used
+  double _v, v; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+                     ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 731: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 732: warning: variable "_vec_v" was declared but never referenced
+  double * _vec_v = _nt->_actual_v;
+           ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 733: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 108: warning: parameter "v" was set but never used
+  #define _threadargsproto_ int _iml, int _cntml_padded, double* _p, Datum* _ppvar, ThreadDatum* _thread, NrnThread* _nt, double v
+                                                                                                                                 ^
+ in expansion of macro "_threadargsproto_" at line 752
+  static double _nrn_current(_threadargsproto_, double _v){double _current=0.;v=_v;{
+                             ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 787: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 788: warning: unrecognized #pragma
+  _PRAGMA_FOR_STATE_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 764: warning: variable "_p" was set but never used
+  double* _p; Datum* _ppvar; ThreadDatum* _thread;
+          ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 764: warning: variable "_ppvar" was set but never used
+  double* _p; Datum* _ppvar; ThreadDatum* _thread;
+                     ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 764: warning: variable "_thread" was set but never used
+  double* _p; Datum* _ppvar; ThreadDatum* _thread;
+                                          ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 765: warning: variable "v" was set but never used
+  double v, _v = 0.0; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+         ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 765: warning: variable "_ni" was set but never used
+  double v, _v = 0.0; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+                           ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 765: warning: variable "_cntml_padded" was set but never used
+  double v, _v = 0.0; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+                                          ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 778: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 779: warning: variable "_vec_v" was declared but never referenced
+  double * _vec_v = _nt->_actual_v;
+           ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 780: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 803: warning: variable "_p" was declared but never referenced
+   double _x; double* _p = &_x;
+                      ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 804: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 805: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 806: warning: variable "_cntml_padded" was declared but never referenced
+   int _cntml_padded=1;
+       ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 807: warning: variable "_iml" was declared but never referenced
+   int _iml=0;
+       ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 149: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 164: warning: variable "coreneuron::_pointtype" was set but never used
+   static int _pointtype;
+              ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 235: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 306: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "";
+                     ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 308: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 309: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 310: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 311: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 96: warning: function "coreneuron::noiseFromRandom123_NetStim" was declared but never referenced
+  #define noiseFromRandom123 noiseFromRandom123_NetStim 
+                             ^
+ in expansion of macro "noiseFromRandom123" at line 516
+  static int  noiseFromRandom123 ( _threadargsproto_ ) {
+              ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 97: warning: function "coreneuron::noiseFromRandom_NetStim" was declared but never referenced
+  #define noiseFromRandom noiseFromRandom_NetStim 
+                          ^
+ in expansion of macro "noiseFromRandom" at line 480
+  static int  noiseFromRandom ( _threadargsproto_ ) {
+              ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 98: warning: function "coreneuron::seed_NetStim" was declared but never referenced
+  #define seed seed_NetStim 
+               ^
+ in expansion of macro "seed" at line 334
+  static int  seed ( _threadargsprotocomma_ double _lx ) {
+              ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 85: warning: function "coreneuron::_nrn_current__NetStim" was declared but never referenced
+  #define _nrn_current _nrn_current__NetStim
+                       ^
+ in expansion of macro "_nrn_current" at line 752
+  static double _nrn_current(_threadargsproto_, double _v){double _current=0.;v=_v;{
+                ^
+
+"aarch64/corenrn/mod2c/netstim.cpp", line 800: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 207: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 228: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 228: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 251: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 252: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 241: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 243: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 309: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 310: warning: unrecognized #pragma
+  _PRAGMA_FOR_CUR_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 300: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 302: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 338: warning: variable "_p" was declared but never referenced
+   double _x; double* _p = &_x;
+                      ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 339: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 340: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 341: warning: variable "_cntml_padded" was declared but never referenced
+   int _cntml_padded=1;
+       ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 342: warning: variable "_iml" was declared but never referenced
+   int _iml=0;
+       ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 131: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 175: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 220: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "passive membrane channel";
+                     ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 222: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 223: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 224: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 225: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/passive.cpp", line 335: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 248: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 282: warning: variable "_cntml_actual" was set but never used
+     Memb_list* _ml; int _cntml_padded, _cntml_actual; int _iml; double* _args;
+                                        ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 282: warning: variable "_args" was set but never used
+     Memb_list* _ml; int _cntml_padded, _cntml_actual; int _iml; double* _args;
+                                                                         ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 334: warning: variable "ip" was declared but never referenced
+  #define INFOCAST Info** ip = (Info**)(&(_p_ptr))
+                          ^
+ in expansion of macro "INFOCAST" at line 339
+  	INFOCAST;
+  	^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 452: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 452: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 479: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 464: warning: variable "_v" was declared but never referenced
+  double _v, v; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+         ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 464: warning: variable "_ni" was set but never used
+  double _v, v; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+                     ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 470: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 471: warning: variable "_vec_v" was declared but never referenced
+  double * _vec_v = _nt->_actual_v;
+           ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 472: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 103: warning: parameter "v" was set but never used
+  #define _threadargsproto_ int _iml, int _cntml_padded, double* _p, Datum* _ppvar, ThreadDatum* _thread, NrnThread* _nt, double v
+                                                                                                                                 ^
+ in expansion of macro "_threadargsproto_" at line 491
+  static double _nrn_current(_threadargsproto_, double _v){double _current=0.;v=_v;{
+                             ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 526: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 527: warning: unrecognized #pragma
+  _PRAGMA_FOR_STATE_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 503: warning: variable "_p" was set but never used
+  double* _p; Datum* _ppvar; ThreadDatum* _thread;
+          ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 503: warning: variable "_ppvar" was set but never used
+  double* _p; Datum* _ppvar; ThreadDatum* _thread;
+                     ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 503: warning: variable "_thread" was set but never used
+  double* _p; Datum* _ppvar; ThreadDatum* _thread;
+                                          ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 504: warning: variable "v" was set but never used
+  double v, _v = 0.0; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+         ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 504: warning: variable "_ni" was set but never used
+  double v, _v = 0.0; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+                           ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 504: warning: variable "_cntml_padded" was set but never used
+  double v, _v = 0.0; int* _ni; int _iml, _cntml_padded, _cntml_actual;
+                                          ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 517: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 518: warning: variable "_vec_v" was declared but never referenced
+  double * _vec_v = _nt->_actual_v;
+           ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 519: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 542: warning: variable "_p" was declared but never referenced
+   double _x; double* _p = &_x;
+                      ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 543: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 544: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 545: warning: variable "_cntml_padded" was declared but never referenced
+   int _cntml_padded=1;
+       ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 546: warning: variable "_iml" was declared but never referenced
+   int _iml=0;
+       ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 138: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 148: warning: variable "coreneuron::_pointtype" was set but never used
+   static int _pointtype;
+              ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 209: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 273: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "";
+                     ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 275: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 276: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 277: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 278: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 85: warning: function "coreneuron::_nrn_current__PatternStim" was declared but never referenced
+  #define _nrn_current _nrn_current__PatternStim
+                       ^
+ in expansion of macro "_nrn_current" at line 491
+  static double _nrn_current(_threadargsproto_, double _v){double _current=0.;v=_v;{
+                ^
+
+"aarch64/corenrn/mod2c/pattern.cpp", line 539: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 118: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 125: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 130: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 137: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 242: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 269: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 269: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 295: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 296: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 285: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 287: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 96: warning: parameter "v" was set but never used
+  #define _threadargsproto_ int _iml, int _cntml_padded, double* _p, Datum* _ppvar, ThreadDatum* _thread, NrnThread* _nt, double v
+                                                                                                                                 ^
+ in expansion of macro "_threadargsproto_" at line 320
+  static double _nrn_current(_threadargsproto_, double _v){double _current=0.;v=_v;{ {
+                             ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 368: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 369: warning: unrecognized #pragma
+  _PRAGMA_FOR_CUR_SYN_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 361: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 446: warning: variable "_p" was declared but never referenced
+   double _x; double* _p = &_x;
+                      ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 447: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 448: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 449: warning: variable "_cntml_padded" was declared but never referenced
+   int _cntml_padded=1;
+       ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 450: warning: variable "_iml" was declared but never referenced
+   int _iml=0;
+       ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 133: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 141: warning: variable "coreneuron::_pointtype" was set but never used
+   static int _pointtype;
+              ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 201: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 261: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "";
+                     ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 263: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 264: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 265: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 266: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/stim.cpp", line 443: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 320
+  _r123array_tpl(1, 32, uint32_t)  /* r123array1x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 321
+  _r123array_tpl(2, 32, uint32_t)  /* r123array2x32 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 173: warning: statement is unreachable
+          ++v[_N>1?1:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 326
+  _r123array_tpl(1, 64, uint64_t)  /* r123array1x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/Random123/array.h", line 175: warning: statement is unreachable
+          ++v[_N>2?2:0];                                                  \
+          ^
+ in expansion of macro "CXXMETHODS" at line 313
+ in expansion of macro "_r123array_tpl" at line 327
+  _r123array_tpl(2, 64, uint64_t)  /* r123array2x64 */
+  ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 118: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 125: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 130: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/utils/randoms/nrnran123.h", line 137: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 109: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 111: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 113: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/membfunc.hpp", line 175: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 46: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 49: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 52: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 100: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 107: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 127: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 129: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 131: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 134: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 145: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/mechanism/mech/mod2c_core_thread.hpp", line 147: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 28: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 31: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 40: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/include/coreneuron/sim/scopmath/newton_struct.h", line 48: warning: unrecognized #pragma
+  #pragma acc routine seq
+          ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 216: warning: unrecognized #pragma
+  #pragma acc declare copyin(delta_t)
+          ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 274: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 371: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 371: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 399: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 400: warning: unrecognized #pragma
+  _PRAGMA_FOR_INIT_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 389: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 391: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 467: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 468: warning: unrecognized #pragma
+  _PRAGMA_FOR_CUR_SYN_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 460: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 562: warning: unrecognized GCC pragma
+  _PRAGMA_FOR_VECTOR_LOOP_
+      ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 563: warning: unrecognized #pragma
+  _PRAGMA_FOR_STATE_ACC_LOOP_
+  ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 553: warning: variable "_nt_data" was declared but never referenced
+  double * _nt_data = _nt->_data;
+           ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 555: warning: variable "stream_id" was declared but never referenced
+  int stream_id = _nt->stream_id;
+      ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 590: warning: variable "_p" was declared but never referenced
+   double _x; double* _p = &_x;
+                      ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 591: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 592: warning: variable "_cntml_actual" was declared but never referenced
+   int _cntml_actual=1;
+       ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 593: warning: variable "_cntml_padded" was declared but never referenced
+   int _cntml_padded=1;
+       ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 594: warning: variable "_iml" was declared but never referenced
+   int _iml=0;
+       ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 143: warning: variable "coreneuron::_extcall_thread" was declared but never referenced
+   static ThreadDatum* _extcall_thread;
+                       ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 153: warning: variable "coreneuron::_pointtype" was set but never used
+   static int _pointtype;
+              ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 215: warning: variable "coreneuron::delta_t" was declared but never referenced
+   static double delta_t = 1;
+                 ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 224: warning: variable "coreneuron::_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 293: warning: variable "coreneuron::modelname" was declared but never referenced
+  static const char *modelname = "svclmp.mod";
+                     ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 295: warning: variable "coreneuron::error" was declared but never referenced
+  static int error;
+             ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 296: warning: variable "coreneuron::_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 297: warning: variable "coreneuron::_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 298: warning: function "coreneuron::_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"aarch64/corenrn/mod2c/svclmp.cpp", line 587: warning: function "coreneuron::terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+FCC: warning: -undefined is unrecognized option.
+/usr/bin/ld: cannot find dynamic_lookup: No such file or directory
+make: *** [/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/share/coreneuron/nrnivmodl_core_makefile:199: coremech_lib_shared] Error 1
