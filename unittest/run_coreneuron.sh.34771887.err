@@ -1,0 +1,501 @@
+testBytesize (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper bytesize (of a double) ... ok
+testEndian (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper byteorder (endian) ... ok
+testNumpyInteraction (neuron.tests.test_vector.VectorTestCase)
+Testing numpy.array <=> hoc.Vector interaction ... ok
+testPerformance (neuron.tests.test_vector.VectorTestCase)
+Test performance of Vector<->list,array ... ok
+testABI (neuron.tests.test_neuron.NeuronTestCase)
+Test use of some  Py_LIMITED_API for python3. ... ok
+testExtendedSection (neuron.tests.test_neuron.NeuronTestCase) ... testBytesize (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper bytesize (of a double) ... ok
+testEndian (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper byteorder (endian) ... ok
+testNumpyInteraction (neuron.tests.test_vector.VectorTestCase)
+Testing numpy.array <=> hoc.Vector interaction ... ok
+testPerformance (neuron.tests.test_vector.VectorTestCase)
+Test performance of Vector<->list,array ... ok
+testABI (neuron.tests.test_neuron.NeuronTestCase)
+Test use of some  Py_LIMITED_API for python3. ... ok
+testExtendedSection (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+testHClass (neuron.tests.test_neuron.NeuronTestCase)
+Test subclass of hoc class. ... ok
+testHelp (neuron.tests.test_neuron.NeuronTestCase) ... ok
+testIterators (neuron.tests.test_neuron.NeuronTestCase)
+Test section, segment, mechanism, rangevar iterators. ... ok
+testRxDexistence (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+testSectionArgOrder (neuron.tests.test_neuron.NeuronTestCase)
+First optional arg for Section is name (but name="name" is recommended) ... ok
+testSectionCell (neuron.tests.test_neuron.NeuronTestCase)
+Section.cell() internally referenced as weakref. ... ok
+testSectionListIterator (neuron.tests.test_neuron.NeuronTestCase)
+As of v8.0, iteration over a SectionList does not change the cas ... ok
+test_newobj_err (neuron.tests.test_neuron.NeuronTestCase)
+Test deletion of incompletely constructed objects ... NEURON: generate an error
+ near line 1
+ ob = new NewObj(1, 2)
+                      ^
+        NewObj[4].execerror("generate a...")
+      NewObj[4].init(0, 2)
+    NewObj[3].init(1, 2)
+  NewObj[2].execute1("ob = new N...", NewObj[2])
+and others
+ok
+testpsection (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+
+======================================================================
+ERROR: testExtendedSection (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 151, in testExtendedSection
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+======================================================================
+ERROR: testRxDexistence (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 190, in testRxDexistence
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+======================================================================
+ERROR: testpsection (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 49, in testpsection
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+----------------------------------------------------------------------
+Ran 15 tests in 3.990s
+
+FAILED (errors=3)
+ok
+testHClass (neuron.tests.test_neuron.NeuronTestCase)
+Test subclass of hoc class. ... ok
+testHelp (neuron.tests.test_neuron.NeuronTestCase) ... ok
+testIterators (neuron.tests.test_neuron.NeuronTestCase)
+Test section, segment, mechanism, rangevar iterators. ... ok
+testRxDexistence (neuron.tests.test_neuron.NeuronTestCase) ... testBytesize (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper bytesize (of a double) ... ok
+testEndian (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper byteorder (endian) ... ok
+testNumpyInteraction (neuron.tests.test_vector.VectorTestCase)
+Testing numpy.array <=> hoc.Vector interaction ... ok
+testPerformance (neuron.tests.test_vector.VectorTestCase)
+Test performance of Vector<->list,array ... ok
+testABI (neuron.tests.test_neuron.NeuronTestCase)
+Test use of some  Py_LIMITED_API for python3. ... ok
+testExtendedSection (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+testHClass (neuron.tests.test_neuron.NeuronTestCase)
+Test subclass of hoc class. ... ok
+testHelp (neuron.tests.test_neuron.NeuronTestCase) ... ok
+testIterators (neuron.tests.test_neuron.NeuronTestCase)
+Test section, segment, mechanism, rangevar iterators. ... ok
+testRxDexistence (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+testSectionArgOrder (neuron.tests.test_neuron.NeuronTestCase)
+First optional arg for Section is name (but name="name" is recommended) ... ok
+testSectionCell (neuron.tests.test_neuron.NeuronTestCase)
+Section.cell() internally referenced as weakref. ... ok
+testSectionListIterator (neuron.tests.test_neuron.NeuronTestCase)
+As of v8.0, iteration over a SectionList does not change the cas ... ok
+test_newobj_err (neuron.tests.test_neuron.NeuronTestCase)
+Test deletion of incompletely constructed objects ... NEURON: generate an error
+ near line 1
+ ob = new NewObj(1, 2)
+                      ^
+        NewObj[4].execerror("generate a...")
+      NewObj[4].init(0, 2)
+    NewObj[3].init(1, 2)
+  NewObj[2].execute1("ob = new N...", NewObj[2])
+and others
+ok
+testpsection (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+
+======================================================================
+ERROR: testExtendedSection (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 151, in testExtendedSection
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+======================================================================
+ERROR: testRxDexistence (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 190, in testRxDexistence
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+======================================================================
+ERROR: testpsection (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 49, in testpsection
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+----------------------------------------------------------------------
+Ran 15 tests in 3.821s
+
+FAILED (errors=3)
+FAIL
+testSectionArgOrder (neuron.tests.test_neuron.NeuronTestCase)
+First optional arg for Section is name (but name="name" is recommended) ... ok
+testSectionCell (neuron.tests.test_neuron.NeuronTestCase)
+Section.cell() internally referenced as weakref. ... ok
+testSectionListIterator (neuron.tests.test_neuron.NeuronTestCase)
+As of v8.0, iteration over a SectionList does not change the cas ... ok
+test_newobj_err (neuron.tests.test_neuron.NeuronTestCase)
+Test deletion of incompletely constructed objects ... NEURON: generate an error
+ near line 1
+ ob = new NewObj(1, 2)
+                      ^
+        NewObj[4].execerror("generate a...")
+      NewObj[4].init(0, 2)
+    NewObj[3].init(1, 2)
+  NewObj[2].execute1("ob = new N...", NewObj[2])
+and others
+ok
+testpsection (neuron.tests.test_neuron.NeuronTestCase) ... testBytesize (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper bytesize (of a double) ... ok
+testEndian (neuron.tests.test_vector.VectorTestCase)
+Test that Vector.__array_interface__ returns the proper byteorder (endian) ... ok
+testNumpyInteraction (neuron.tests.test_vector.VectorTestCase)
+Testing numpy.array <=> hoc.Vector interaction ... ok
+testPerformance (neuron.tests.test_vector.VectorTestCase)
+Test performance of Vector<->list,array ... ok
+testABI (neuron.tests.test_neuron.NeuronTestCase)
+Test use of some  Py_LIMITED_API for python3. ... ok
+testExtendedSection (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+testHClass (neuron.tests.test_neuron.NeuronTestCase)
+Test subclass of hoc class. ... ok
+testHelp (neuron.tests.test_neuron.NeuronTestCase) ... ok
+testIterators (neuron.tests.test_neuron.NeuronTestCase)
+Test section, segment, mechanism, rangevar iterators. ... ok
+testRxDexistence (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+testSectionArgOrder (neuron.tests.test_neuron.NeuronTestCase)
+First optional arg for Section is name (but name="name" is recommended) ... ok
+testSectionCell (neuron.tests.test_neuron.NeuronTestCase)
+Section.cell() internally referenced as weakref. ... ok
+testSectionListIterator (neuron.tests.test_neuron.NeuronTestCase)
+As of v8.0, iteration over a SectionList does not change the cas ... ok
+test_newobj_err (neuron.tests.test_neuron.NeuronTestCase)
+Test deletion of incompletely constructed objects ... NEURON: generate an error
+ near line 1
+ ob = new NewObj(1, 2)
+                      ^
+        NewObj[4].execerror("generate a...")
+      NewObj[4].init(0, 2)
+    NewObj[3].init(1, 2)
+  NewObj[2].execute1("ob = new N...", NewObj[2])
+and others
+ok
+testpsection (neuron.tests.test_neuron.NeuronTestCase) ... ERROR
+
+======================================================================
+ERROR: testExtendedSection (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 151, in testExtendedSection
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+======================================================================
+ERROR: testRxDexistence (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 190, in testRxDexistence
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+======================================================================
+ERROR: testpsection (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 49, in testpsection
+    p.start()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/context.py", line 288, in _Popen
+    return Popen(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+  File "/vol0004/apps/oss/spack-v0.21/opt/spack/linux-rhel8-a64fx/fj-4.10.0/python-3.10.13-bjhdatlk74sdqya3xxy2r6doz6y24iha/lib/python3.10/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+----------------------------------------------------------------------
+Ran 15 tests in 3.768s
+
+FAILED (errors=3)
+ok
+
+======================================================================
+FAIL: testRxDexistence (neuron.tests.test_neuron.NeuronTestCase)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-43rxvrtkj556tkbb527kfpxbgbowebum/lib/python/neuron/tests/test_neuron.py", line 192, in testRxDexistence
+    assert(p.exitcode == 0)
+AssertionError
+
+----------------------------------------------------------------------
+Ran 15 tests in 20.683s
+
+FAILED (failures=1)

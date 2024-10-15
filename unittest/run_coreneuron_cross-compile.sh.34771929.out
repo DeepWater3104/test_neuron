@@ -1,0 +1,270 @@
+-- linux-rhel8-a64fx / fj@4.10.0 --------------------------------
+jg27tcf neuron@8.0.0~caliper+coreneuron+cross-compile~interviews~ipo~legacy-unit+mpi+python~rx3d~tests build_system=cmake build_type=Release generator=make
+
+
+Executed "l = range(1000000)".  Elapsed = 0.000100 s
+Executed "v = h.Vector(l)".  Elapsed = 0.298285 s
+inplace:
+Executed "v.from_python(l)".  Elapsed = 0.302585 s
+Executed "a = numpy.array(v)".  Elapsed = 0.001071 s
+inplace:
+Executed "v.to_python(a)".  Elapsed = 0.000913 s
+Executed "v2 = h.Vector(a)".  Elapsed = 0.001715 s
+inplace:
+Executed "v2.from_python(a)".  Elapsed = 0.000655 s
+Executed "l2 = list(v2)".  Elapsed = 0.089877 s
+inplace:
+Executed "v.to_python(l2)".  Elapsed = 0.037244 s
+Executed "v2 = h.Vector(a[::-1])".  Elapsed = 0.001383 s
+Executed "a2 = numpy.array(v2)".  Elapsed = 0.001071 s
+
+
+Executed "l = range(1000000)".  Elapsed = 0.000096 s
+Executed "v = h.Vector(l)".  Elapsed = 0.307602 s
+inplace:
+Executed "v.from_python(l)".  Elapsed = 0.297421 s
+Executed "a = numpy.array(v)".  Elapsed = 0.001049 s
+inplace:
+Executed "v.to_python(a)".  Elapsed = 0.000895 s
+Executed "v2 = h.Vector(a)".  Elapsed = 0.001694 s
+inplace:
+Executed "v2.from_python(a)".  Elapsed = 0.000635 s
+Executed "l2 = list(v2)".  Elapsed = 0.089514 s
+inplace:
+Executed "v.to_python(l2)".  Elapsed = 0.037118 s
+Executed "v2 = h.Vector(a[::-1])".  Elapsed = 0.001369 s
+Executed "a2 = numpy.array(v2)".  Elapsed = 0.001046 s
+Syntax:
+    .. code-block::
+        python
+
+
+        h.xpanel('name')
+        h.xpanel('name', [0-1])
+        h.xpanel()
+        h.xpanel(x, y)
+        h.xpanel(scroll)
+        h.xpanel(scroll, x, y)
+
+
+Description:
+
+
+    ``h.xpanel("name")`` 
+
+
+    ``h.xpanel("name", [0-1])`` 
+        Title of a new panel. Every 
+        button, menu, and value between this and a closing ``xpanel()`` command 
+        with no arguments (or placement args) belongs to this panel. 
+        If the form is used with a second argument equal to 1, then 
+        the panel is laid out horizontally. Otherwise the default is vertically. 
+
+
+    ``h.xpanel()`` 
+
+
+    ``h.xpanel(x, y)`` 
+        done constructing the panel. so map it to the screen with position 
+        optionally specified. 
+
+
+    ``h.xpanel(scroll)`` 
+
+
+    ``h.xpanel(scroll, x, y)`` 
+        as above but if the first arg is a number, then the value determines 
+        whether the panel will be inside a scrollbox. Scroll = 0 means a scrollbox 
+        will NOT be used. Scroll = 1 means the panel will be inside a scrollbox. 
+        Scroll = -1 is the default value and whether or not a scrollbox is used 
+        is determined by the number of panel items in comparison with the 
+        value of the panel_scroll property in the nrn.defaults file. 
+
+
+
+#NewObj and #Foo in existence 3 6
+after del a #NewObj and #Foo in existence 0 0
+Syntax:
+    .. code-block::
+        python
+
+
+        h.xpanel('name')
+        h.xpanel('name', [0-1])
+        h.xpanel()
+        h.xpanel(x, y)
+        h.xpanel(scroll)
+        h.xpanel(scroll, x, y)
+
+
+Description:
+
+
+    ``h.xpanel("name")`` 
+
+
+    ``h.xpanel("name", [0-1])`` 
+        Title of a new panel. Every 
+        button, menu, and value between this and a closing ``xpanel()`` command 
+        with no arguments (or placement args) belongs to this panel. 
+        If the form is used with a second argument equal to 1, then 
+        the panel is laid out horizontally. Otherwise the default is vertically. 
+
+
+    ``h.xpanel()`` 
+
+
+    ``h.xpanel(x, y)`` 
+        done constructing the panel. so map it to the screen with position 
+        optionally specified. 
+
+
+    ``h.xpanel(scroll)`` 
+
+
+    ``h.xpanel(scroll, x, y)`` 
+        as above but if the first arg is a number, then the value determines 
+        whether the panel will be inside a scrollbox. Scroll = 0 means a scrollbox 
+        will NOT be used. Scroll = 1 means the panel will be inside a scrollbox. 
+        Scroll = -1 is the default value and whether or not a scrollbox is used 
+        is determined by the number of panel items in comparison with the 
+        value of the panel_scroll property in the nrn.defaults file. 
+
+
+
+
+Executed "l = range(1000000)".  Elapsed = 0.000095 s
+Executed "v = h.Vector(l)".  Elapsed = 0.307666 s
+inplace:
+Executed "v.from_python(l)".  Elapsed = 0.297347 s
+Executed "a = numpy.array(v)".  Elapsed = 0.001045 s
+inplace:
+Executed "v.to_python(a)".  Elapsed = 0.000891 s
+Executed "v2 = h.Vector(a)".  Elapsed = 0.001693 s
+inplace:
+Executed "v2.from_python(a)".  Elapsed = 0.000634 s
+Executed "l2 = list(v2)".  Elapsed = 0.089441 s
+inplace:
+Executed "v.to_python(l2)".  Elapsed = 0.037122 s
+Executed "v2 = h.Vector(a[::-1])".  Elapsed = 0.001370 s
+Executed "a2 = numpy.array(v2)".  Elapsed = 0.001049 s
+Syntax:
+    .. code-block::
+        python
+
+
+        h.xpanel('name')
+        h.xpanel('name', [0-1])
+        h.xpanel()
+        h.xpanel(x, y)
+        h.xpanel(scroll)
+        h.xpanel(scroll, x, y)
+
+
+Description:
+
+
+    ``h.xpanel("name")`` 
+
+
+    ``h.xpanel("name", [0-1])`` 
+        Title of a new panel. Every 
+        button, menu, and value between this and a closing ``xpanel()`` command 
+        with no arguments (or placement args) belongs to this panel. 
+        If the form is used with a second argument equal to 1, then 
+        the panel is laid out horizontally. Otherwise the default is vertically. 
+
+
+    ``h.xpanel()`` 
+
+
+    ``h.xpanel(x, y)`` 
+        done constructing the panel. so map it to the screen with position 
+        optionally specified. 
+
+
+    ``h.xpanel(scroll)`` 
+
+
+    ``h.xpanel(scroll, x, y)`` 
+        as above but if the first arg is a number, then the value determines 
+        whether the panel will be inside a scrollbox. Scroll = 0 means a scrollbox 
+        will NOT be used. Scroll = 1 means the panel will be inside a scrollbox. 
+        Scroll = -1 is the default value and whether or not a scrollbox is used 
+        is determined by the number of panel items in comparison with the 
+        value of the panel_scroll property in the nrn.defaults file. 
+
+
+
+#NewObj and #Foo in existence 3 6
+after del a #NewObj and #Foo in existence 0 0
+
+#NewObj and #Foo in existence 3 6
+after del a #NewObj and #Foo in existence 0 0
+
+
+Executed "l = range(1000000)".  Elapsed = 0.000095 s
+Executed "v = h.Vector(l)".  Elapsed = 0.324574 s
+inplace:
+Executed "v.from_python(l)".  Elapsed = 0.297600 s
+Executed "a = numpy.array(v)".  Elapsed = 0.001049 s
+inplace:
+Executed "v.to_python(a)".  Elapsed = 0.000891 s
+Executed "v2 = h.Vector(a)".  Elapsed = 0.001692 s
+inplace:
+Executed "v2.from_python(a)".  Elapsed = 0.000634 s
+Executed "l2 = list(v2)".  Elapsed = 0.089442 s
+inplace:
+Executed "v.to_python(l2)".  Elapsed = 0.037118 s
+Executed "v2 = h.Vector(a[::-1])".  Elapsed = 0.001370 s
+Executed "a2 = numpy.array(v2)".  Elapsed = 0.001052 s
+Syntax:
+    .. code-block::
+        python
+
+
+        h.xpanel('name')
+        h.xpanel('name', [0-1])
+        h.xpanel()
+        h.xpanel(x, y)
+        h.xpanel(scroll)
+        h.xpanel(scroll, x, y)
+
+
+Description:
+
+
+    ``h.xpanel("name")`` 
+
+
+    ``h.xpanel("name", [0-1])`` 
+        Title of a new panel. Every 
+        button, menu, and value between this and a closing ``xpanel()`` command 
+        with no arguments (or placement args) belongs to this panel. 
+        If the form is used with a second argument equal to 1, then 
+        the panel is laid out horizontally. Otherwise the default is vertically. 
+
+
+    ``h.xpanel()`` 
+
+
+    ``h.xpanel(x, y)`` 
+        done constructing the panel. so map it to the screen with position 
+        optionally specified. 
+
+
+    ``h.xpanel(scroll)`` 
+
+
+    ``h.xpanel(scroll, x, y)`` 
+        as above but if the first arg is a number, then the value determines 
+        whether the panel will be inside a scrollbox. Scroll = 0 means a scrollbox 
+        will NOT be used. Scroll = 1 means the panel will be inside a scrollbox. 
+        Scroll = -1 is the default value and whether or not a scrollbox is used 
+        is determined by the number of panel items in comparison with the 
+        value of the panel_scroll property in the nrn.defaults file. 
+
+
+
+#NewObj and #Foo in existence 3 6
+after del a #NewObj and #Foo in existence 0 0
