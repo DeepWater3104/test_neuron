@@ -1,0 +1,97 @@
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+Translating halfgap.mod into /vol0004/hp200139/data/u12103/test_NEURON/ringtest/ringtest/aarch64/halfgap.c
+Thread Safe
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+"halfgap.c", line 161: warning: variable "prop_ion" was declared but never referenced
+  	Prop *prop_ion;
+  	      ^
+
+"halfgap.c", line 189: warning: variable "_vectorized" was declared but never referenced
+  	int _vectorized = 1;
+  	    ^
+
+"halfgap.c", line 218: warning: variable "_i" was declared but never referenced
+    int _i; double _save;{
+        ^
+
+"halfgap.c", line 218: warning: variable "_save" was declared but never referenced
+    int _i; double _save;{
+                   ^
+
+"halfgap.c", line 316: warning: variable "_ppvar" was declared but never referenced
+  double* _p; Datum* _ppvar; Datum* _thread;
+                     ^
+
+"halfgap.c", line 316: warning: variable "_thread" was set but never used
+  double* _p; Datum* _ppvar; Datum* _thread;
+                                    ^
+
+"halfgap.c", line 352: warning: variable "_p" was declared but never referenced
+   double _x; double* _p = &_x;
+                      ^
+
+"halfgap.c", line 353: warning: variable "_i" was declared but never referenced
+   int _i; static int _first = 1;
+       ^
+
+"halfgap.c", line 66: warning: variable "_extcall_thread" was declared but never referenced
+   static Datum* _extcall_thread;
+                 ^
+
+"halfgap.c", line 67: warning: variable "_extcall_prop" was set but never used
+   static Prop* _extcall_prop;
+                ^
+
+"halfgap.c", line 105: warning: function "_hoc_setdata" was declared but never referenced
+   static void _hoc_setdata(void* _vptr) { Prop* _prop;
+               ^
+
+"halfgap.c", line 137: warning: variable "_sav_indep" was declared but never referenced
+   static double _sav_indep;
+                 ^
+
+"halfgap.c", line 209: warning: variable "_reset" was declared but never referenced
+  static int _reset;
+             ^
+
+"halfgap.c", line 210: warning: variable "modelname" was declared but never referenced
+  static char *modelname = "";
+               ^
+
+"halfgap.c", line 212: warning: variable "error" was declared but never referenced
+  static int error;
+             ^
+
+"halfgap.c", line 213: warning: variable "_ninits" was declared but never referenced
+  static int _ninits = 0;
+             ^
+
+"halfgap.c", line 214: warning: variable "_match_recurse" was set but never used
+  static int _match_recurse=1;
+             ^
+
+"halfgap.c", line 215: warning: function "_modl_cleanup" was declared but never referenced
+  static void _modl_cleanup(){ _match_recurse=1;}
+              ^
+
+"halfgap.c", line 349: warning: function "terminal" was declared but never referenced
+  static void terminal(){}
+              ^
+
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+[WARN] xos LPG 2003 - Failed to map HugeTLBfs for data/bss: Layout problem with segments 0 and 1:
+	Segments would overlap.
+FCC: warning: -undefined is unrecognized option.
+/usr/bin/ld: cannot find dynamic_lookup: No such file or directory
+make: *** [/vol0004/hp200139/data/u12103/spack/RIKEN-spack2/opt/spack/linux-rhel8-a64fx/fj-4.10.0/neuron-8.0.0-ve3bexqndqijyha6mbnzztdsam4bapj3/bin/nrnmech_makefile:110: mech_lib_shared] Error 1
