@@ -1,0 +1,2 @@
+-- linux-rhel8-a64fx / fj@4.10.0 --------------------------------
+jg27tcf neuron@8.0.0~caliper+coreneuron+cross-compile~interviews~ipo~legacy-unit+mpi+python~rx3d~tests build_system=cmake build_type=Release generator=make
